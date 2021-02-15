@@ -31,7 +31,7 @@ function App() {
   return (
     <>
       <Alert />
-      <h1>Bydget Calculator</h1>
+      <h1>Budget Calculator</h1>
       <main className="App">
         <ExpenseForm />
         <ExpenseList expenses={expenses} />
